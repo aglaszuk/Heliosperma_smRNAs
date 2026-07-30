@@ -94,7 +94,7 @@ Analysis **results** under `output/` (gene lists, PDFs, GO tables) are intended 
 DEG lists derive from:
 
 - **CG:** [Szukala et al. (2022)]( https://doi.org/10.1111/mec.16393) — common-garden transcriptome
-- **RT:** [Szukala et al. (2023)] ( https://doi.org/10.1111/tpj.16342) — reciprocal-transplant transcriptome
+- **RT:** [Szukala et al. (2023)]( https://doi.org/10.1111/tpj.16342) — reciprocal-transplant transcriptome
 
 Update citation details here when the smRNA manuscript is published.
 
