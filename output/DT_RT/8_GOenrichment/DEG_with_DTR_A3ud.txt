@@ -1,0 +1,1 @@
+gene	region	logFC_DEG	padj	logFC_DTR	F	FDR	DTR_direction

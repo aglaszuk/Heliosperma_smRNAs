@@ -1,0 +1,83 @@
+gene;annotation;gene annotation;Putative function
+HELPU_017437;homeodomain GLABROUS 2;homeodomain GLABROUS 2;Trichome developement
+HELPU_023856;GATA transcription factor 3;GATA transcription factor 3;Trichome developement
+HELPU_001984;WRKY family transcription factor;WRKY transcription factor;Trichome developement
+HELPU_011935;Transducin/WD40 repeat-like superfamily protein; WD40 transcription factor;Trichome developement
+HELPU_000263;apetala 1;APETALA1;Trichome developement
+HELPU_010917;ROP guanine nucleotide exchange factor 5;ROP-guanine nucleotide exchange factor 5;Trichome developement
+HELPU_017653;NAC domain containing protein 75;NAC transcription factor;Trichome developement
+HELPU_008272;isochorismate synthase 2;isochorismate synthase 2;pathogens/defense
+HELPU_008882;Subtilisin-like serine endopeptidase family protein;Subtilisin-like serine endopeptidase;pathogens/defense
+HELPU_014211;pleiotropic drug resistance 12;PDR12;pathogens/defense
+HELPU_015152;autophagocytosis-associated family protein;autophagocytosis-associated protein;pathogens/defense
+HELPU_018554;respiratory burst oxidase-like protein;respiratory burst oxidase-like protein (RBOH);pathogens/defense
+HELPU_021373;cinnamyl alcohol dehydrogenase 9;cinnamyl alcohol dehydrogenase 9;pathogens/defense
+HELPU_002449;cysteine-rich RLK (RECEPTOR-like protein kinase) 25;cysteine-rich receptor-like kinase 25;pathogens/defense
+HELPU_021296;DZC (Disease resistance/zinc finger/chromosome condensation-like region) domain containing protein;DZC domain containing protein;pathogens/defense
+HELPU_001157;T76141 and gb;NA;NA
+HELPU_008465;---NA---;NA;NA
+HELPU_009157;---NA---;NA;NA
+HELPU_010900;---NA---;NA;NA
+HELPU_010901;---NA---;NA;NA
+HELPU_010902;---NA---;NA;NA
+HELPU_019443;---NA---;NA;NA
+HELPU_021825;---NA---;NA;NA
+HELPU_005678;Glutaredoxin family protein;Glutaredoxin;light/UV
+HELPU_012627;PLAT/LH2 domain-containing lipoxygenase family protein;PLAT/LH2 lipoxygenase family protein;light/UV
+HELPU_016521;Chlorophyll A-B binding family protein;Chlorophyll A-B binding protein;light/UV
+HELPU_022596;Peroxidase superfamily protein;Peroxidase superfamily protein;light/UV
+HELPU_023644;Putative glutathione transferase;Glutathione transferase;light/UV
+HELPU_015806;Early-responsive to dehydration stress protein (ERD4);Early-responsive to dehydration stress protein (ERD4);drought and cold stress
+HELPU_016237;calcium-dependent protein kinase;calcium-dependent protein kinase;drought and cold stress
+HELPU_007888;vacuolar iron transporter 1;vacuolar iron transporter 1;drought and cold stress
+HELPU_001229;UDP-Glycosyltransferase superfamily protein;UDP-Glycosyltransferase;competition/pathogens
+HELPU_001983;UDP-Glycosyltransferase superfamily protein;UDP-Glycosyltransferase;competition/pathogens
+HELPU_006045;MATE efflux family protein;MATE efflux family protein;competition/pathogens
+HELPU_000044;Protein kinase superfamily protein;Protein kinase;cell regulation/stress response
+HELPU_002146;titan9;TITAN9;cell regulation/stress response
+HELPU_009885;Putative ABC transporter;ABC transporter;cell regulation/stress response
+HELPU_002109;P-loop containing nucleoside triphosphate hydrolases superfamily protein;P-loop containing nucleoside triphosphate hydrolase;cell regulation/stress response
+HELPU_002147;ARM repeat superfamily protein;ARM repeat superfamily protein;cell regulation/stress response
+HELPU_005674;alcohol dehydrogenase;alcohol dehydrogenase;cell regulation/stress response
+HELPU_012657;RecName: Full=Protein CANDIDATE G-PROTEIN COUPLED RECEPTOR 2;G-PROTEIN COUPLED RECEPTOR 2;cell regulation/stress response
+HELPU_003360;general regulatory factor 9;general regulatory factor 9;cell regulation/stress response
+HELPU_004102;PEBP (phosphatidylethanolamine-binding protein) family protein;PEBP gene family;cell regulation/stress response
+HELPU_006056;O-fucosyltransferase family protein;O-fucosyltransferase family protein;cell regulation/stress response
+HELPU_006504;AMP-dependent synthetase and ligase family protein;AMP-dependent synthetase and ligase;cell regulation/stress response
+HELPU_007293;phenylalanyl-tRNA synthetase class IIc family protein;phenylalanyl-tRNA synthetase class Iic;cell regulation/stress response
+HELPU_008127;Ubiquitin-like superfamily protein;Ubiquitin-like superfamily protein;cell regulation/stress response
+HELPU_008737;Calcium-dependent lipid-binding (CaLB domain) family protein;CaLB domain family protein;cell regulation/stress response
+HELPU_008740;F-box SKIP23-like protein (DUF295);F-box SKIP23-like protein;cell regulation/stress response
+HELPU_011369;ferric reduction oxidase 5;ferric reduction oxidase 5;cell regulation/stress response
+HELPU_013365;Transducin/WD40 repeat-like superfamily protein; WD40 superfamily protein;cell regulation/stress response
+HELPU_011936;alpha carbonic anhydrase 7;alpha carbonic anhydrase 7;cell regulation/stress response
+HELPU_012438;Protein kinase superfamily protein;Protein kinase;cell regulation/stress response
+HELPU_012860;acetone-cyanohydrin lyase;acetone-cyanohydrin lyase;cell regulation/stress response
+HELPU_013418;FAM91 carboxy-terminus protein;FAM91 carboxy-terminus protein;cell regulation/stress response
+HELPU_014337;alpha-L-fucosidase 1;alpha-L-fucosidase 1;cell regulation/stress response
+HELPU_014534;purple acid phosphatase-like protein;purple acid phosphatase;cell regulation/stress response
+HELPU_014714;QWRF motif protein (DUF566);QWRF motif protein;cell regulation/stress response
+HELPU_014793;aldehyde dehydrogenase 10A8;aldehyde dehydrogenase 10A8;cell regulation/stress response
+HELPU_014954;DNA LIGASE 6;DNA LIGASE 6;cell regulation/stress response
+HELPU_014977;membrane protein;membrane protein;cell regulation/stress response
+HELPU_015339;Trypsin family protein with PDZ domain-containing protein;Trypsin  with PDZ domain-containing protein;cell regulation/stress response
+HELPU_015500;FtsH extracellular protease family;FtsH extracellular protease family;cell regulation/stress response
+HELPU_016393;nudix hydrolase homolog 16;nudix hydrolase homolog 16;cell regulation/stress response
+HELPU_016689;putative DNA binding protein;DNA binding protein;cell regulation/stress response
+HELPU_016811;alpha/beta-Hydrolases superfamily protein;alpha/beta-Hydrolase;cell regulation/stress response
+HELPU_017141;Riboflavin synthase-like superfamily protein;Riboflavin synthase;cell regulation/stress response
+HELPU_017295;Fatty acid hydroxylase superfamily;Fatty acid hydroxylase;cell regulation/stress response
+HELPU_017336;enolase (DUF1399);enolase (DUF1399);cell regulation/stress response
+HELPU_017477;putative SCO1 protein;SCO1 protein;cell regulation/stress response
+HELPU_019124;Survival protein SurE-like phosphatase/nucleotidase; SurE-like phosphatase/nucleotidase;cell regulation/stress response
+HELPU_019622;iron regulated 1;iron regulated 1;cell regulation/stress response
+HELPU_019638;nitrate transporter 2.4;nitrate transporter 2.4;cell regulation/stress response
+HELPU_020615;Pentatricopeptide repeat (PPR) superfamily protein;Pentatricopeptide repeat protein;cell regulation/stress response
+HELPU_021487;Major facilitator superfamily protein;Major facilitator superfamily protein;cell regulation/stress response
+HELPU_021822;ARM repeat superfamily protein;ARM repeat superfamily protein;cell regulation/stress response
+HELPU_022024;small GTP-binding protein-like;small GTP-binding protein-like;cell regulation/stress response
+HELPU_023075;00501 AMP-binding enzymes;AMP-binding enzyme;cell regulation/stress response
+HELPU_023783;Cystathionine beta-synthase (CBS) family protein;Cystathionine beta-synthase (CBS);cell regulation/stress response
+HELPU_017720;DNA methyltransferase-2;DNA methyltransferase-2;(small)RNA/DNA processing
+HELPU_019947;Small nuclear RNA activating complex (SNAPc), subunit SNAP43 protein;Small nuclear RNA activating complex;(small)RNA/DNA processing
+HELPU_021314;pre-mRNA-processing protein 40C;pre-mRNA-processing protein 40C;(small)RNA/DNA processing

@@ -1,0 +1,238 @@
+ID	cluster	term
+GO:0000012	1	single strand break repair
+GO:0002940	1	tRNA N2-guanine methylation
+GO:0006306	1	DNA methylation
+GO:0006307	1	DNA dealkylation involved in DNA repair
+GO:0035825	1	homologous recombination
+GO:0070716	1	mismatch repair involved in maintenance ...
+GO:0080009	1	mRNA methylation
+GO:0090657	1	telomeric loop disassembly
+GO:1900871	1	chloroplast mRNA modification
+GO:0000256	2	allantoin catabolic process
+GO:0010136	2	ureide catabolic process
+GO:0019500	2	cyanide catabolic process
+GO:0002230	3	positive regulation of defense response ...
+GO:0034052	3	positive regulation of plant-type hypers...
+GO:1900366	3	negative regulation of defense response ...
+GO:1901672	3	positive regulation of systemic acquired...
+GO:2000068	3	regulation of defense response to insect
+GO:0002679	4	respiratory burst involved in defense re...
+GO:0006069	5	ethanol oxidation
+GO:0006102	5	isocitrate metabolic process
+GO:0006145	6	purine nucleobase catabolic process
+GO:0033473	6	indoleacetic acid conjugate metabolic pr...
+GO:0035999	6	tetrahydrofolate interconversion
+GO:0046110	6	xanthine metabolic process
+GO:0046398	6	UDP-glucuronate metabolic process
+GO:0046655	6	folic acid metabolic process
+GO:0052573	6	UDP-D-galactose metabolic process
+GO:0006422	7	aspartyl-tRNA aminoacylation
+GO:0006432	7	phenylalanyl-tRNA aminoacylation
+GO:0009299	7	mRNA transcription
+GO:0006565	8	L-serine catabolic process
+GO:0006572	8	tyrosine catabolic process
+GO:0019441	8	tryptophan catabolic process to kynureni...
+GO:1902000	8	homogentisate catabolic process
+GO:0006624	9	vacuolar protein processing
+GO:0010731	9	protein glutathionylation
+GO:0016575	9	histone deacetylation
+GO:0018107	9	peptidyl-threonine phosphorylation
+GO:0031060	9	regulation of histone methylation
+GO:0006824	10	cobalt ion transport
+GO:0035444	10	nickel cation transmembrane transport
+GO:0006826	11	iron ion transport
+GO:0015690	11	aluminum cation transport
+GO:0015692	11	lead ion transport
+GO:0015839	11	cadaverine transport
+GO:0080051	11	cutin transport
+GO:0007062	12	sister chromatid cohesion
+GO:0007064	12	mitotic sister chromatid cohesion
+GO:0007095	13	mitotic G2 DNA damage checkpoint signali...
+GO:0007231	14	osmosensory signaling pathway
+GO:0010182	14	sugar mediated signaling pathway
+GO:0060774	14	auxin mediated signaling pathway involve...
+GO:0009611	15	response to wounding
+GO:1990110	15	callus formation
+GO:0009610	16	response to symbiotic fungus
+GO:0009617	16	response to bacterium
+GO:0009620	16	response to fungus
+GO:0009624	16	response to nematode
+GO:0009627	16	systemic acquired resistance
+GO:0050829	16	defense response to Gram-negative bacter...
+GO:0080027	16	response to herbivore
+GO:0080034	16	host response to induction by symbiont o...
+GO:0006633	17	fatty acid biosynthetic process
+GO:0009685	17	gibberellin metabolic process
+GO:0009686	17	gibberellin biosynthetic process
+GO:0009694	17	jasmonic acid metabolic process
+GO:0009695	17	jasmonic acid biosynthetic process
+GO:0010597	17	green leaf volatile biosynthetic process
+GO:0016104	17	triterpenoid biosynthetic process
+GO:0016106	17	sesquiterpenoid biosynthetic process
+GO:0030497	17	fatty acid elongation
+GO:0031408	17	oxylipin biosynthetic process
+GO:0045723	17	positive regulation of fatty acid biosyn...
+GO:0051761	17	sesquiterpene metabolic process
+GO:0000302	18	response to reactive oxygen species
+GO:0009723	18	response to ethylene
+GO:0009744	18	response to sucrose
+GO:0009751	18	response to salicylic acid
+GO:0010042	18	response to manganese ion
+GO:0010044	18	response to aluminum ion
+GO:0010167	18	response to nitrate
+GO:0010193	18	response to ozone
+GO:0010477	18	response to sulfur dioxide
+GO:0042221	18	response to chemical
+GO:0046685	18	response to arsenic-containing substance
+GO:0070301	18	cellular response to hydrogen peroxide
+GO:0072702	18	response to methyl methanesulfonate
+GO:0009813	19	flavonoid biosynthetic process
+GO:0009962	19	regulation of flavonoid biosynthetic pro...
+GO:0046283	19	anthocyanin-containing compound metaboli...
+GO:0009902	20	chloroplast relocation
+GO:0009926	21	auxin polar transport
+GO:0009638	22	phototropism
+GO:0009959	22	negative gravitropism
+GO:0010187	23	negative regulation of seed germination
+GO:0010321	23	regulation of vegetative phase change
+GO:0048581	23	negative regulation of post-embryonic de...
+GO:0061062	23	regulation of nematode larval developmen...
+GO:2000069	23	regulation of post-embryonic root develo...
+GO:2000122	23	negative regulation of stomatal complex ...
+GO:0009901	24	anther dehiscence
+GO:0009911	24	positive regulation of flower developmen...
+GO:0010093	24	specification of floral organ identity
+GO:0010214	24	seed coat development
+GO:0010227	24	floral organ abscission
+GO:0048359	24	mucilage metabolic process involved in s...
+GO:0048438	24	floral whorl development
+GO:0048446	24	petal morphogenesis
+GO:0080086	24	stamen filament development
+GO:0090567	24	reproductive shoot system development
+GO:0006890	25	retrograde vesicle-mediated transport, G...
+GO:0006898	25	receptor-mediated endocytosis
+GO:0010496	25	intercellular transport
+GO:0042908	25	xenobiotic transport
+GO:0080170	25	hydrogen peroxide transmembrane transpor...
+GO:0098657	25	import into cell
+GO:0098739	25	import across plasma membrane
+GO:0099636	25	cytoplasmic streaming
+GO:0140352	25	export from cell
+GO:1990961	25	xenobiotic detoxification by transmembra...
+GO:0009969	26	xyloglucan biosynthetic process
+GO:0010417	26	glucuronoxylan biosynthetic process
+GO:0010581	26	regulation of starch biosynthetic proces...
+GO:0012501	27	programmed cell death
+GO:0043069	27	negative regulation of programmed cell d...
+GO:0015700	28	arsenite transport
+GO:0035445	28	borate transmembrane transport
+GO:1902476	28	chloride transmembrane transport
+GO:1903424	28	fluoride transmembrane transport
+GO:0006098	29	pentose-phosphate shunt
+GO:0016311	29	dephosphorylation
+GO:0016560	30	protein import into peroxisome matrix, d...
+GO:0017038	30	protein import
+GO:0030581	30	symbiont intracellular protein transport...
+GO:0032594	30	protein transport within lipid bilayer
+GO:0030026	31	intracellular manganese ion homeostasis
+GO:0055068	31	cobalt ion homeostasis
+GO:0097577	31	sequestering of iron ion
+GO:0030155	32	regulation of cell adhesion
+GO:0090333	32	regulation of stomatal closure
+GO:2000035	32	regulation of stem cell division
+GO:0006790	33	sulfur compound metabolic process
+GO:0006801	33	superoxide metabolic process
+GO:0009853	33	photorespiration
+GO:0032928	33	regulation of superoxide anion generatio...
+GO:0042554	33	superoxide anion generation
+GO:0042744	33	hydrogen peroxide catabolic process
+GO:0072593	33	reactive oxygen species metabolic proces...
+GO:1903409	33	reactive oxygen species biosynthetic pro...
+GO:0042631	34	cellular response to water deprivation
+GO:0080029	34	cellular response to boron-containing su...
+GO:0044794	35	positive regulation by host of viral pro...
+GO:0005975	36	carbohydrate metabolic process
+GO:0009251	36	glucan catabolic process
+GO:0045489	36	pectin biosynthetic process
+GO:0045490	36	pectin catabolic process
+GO:0008285	37	negative regulation of cell population p...
+GO:0045596	37	negative regulation of cell differentiat...
+GO:0048497	37	maintenance of floral organ identity
+GO:0007623	38	circadian rhythm
+GO:0042754	38	negative regulation of circadian rhythm
+GO:0048511	38	rhythmic process
+GO:0016139	39	glycoside catabolic process
+GO:0050994	39	regulation of lipid catabolic process
+GO:1901575	39	organic substance catabolic process
+GO:0051014	40	actin filament severing
+GO:0051131	41	chaperone-mediated protein complex assem...
+GO:0051289	41	protein homotetramerization
+GO:0051176	42	positive regulation of sulfur metabolic ...
+GO:0006516	43	glycoprotein catabolic process
+GO:0070407	43	oxidation-dependent protein catabolic pr...
+GO:0009409	44	response to cold
+GO:0010220	44	positive regulation of vernalization res...
+GO:0070417	44	cellular response to cold
+GO:0080151	45	positive regulation of salicylic acid me...
+GO:0070778	46	L-aspartate transmembrane transport
+GO:0080168	46	abscisic acid transport
+GO:0051716	47	cellular response to stimulus
+GO:0098869	47	cellular oxidant detoxification
+GO:0007389	48	pattern specification process
+GO:0010222	48	stem vascular tissue pattern formation
+GO:0048229	48	gametophyte development
+GO:0060772	48	leaf phyllotactic patterning
+GO:0060866	48	leaf abscission
+GO:0080172	48	petal epidermis patterning
+GO:0099402	48	plant organ development
+GO:0044528	49	regulation of mitochondrial mRNA stabili...
+GO:1903800	49	positive regulation of miRNA processing
+GO:1904430	49	negative regulation of t-circle formatio...
+GO:2001108	50	positive regulation of Rho guanyl-nucleo...
+GO:0000266	51	mitochondrial fission
+GO:0016559	51	peroxisome fission
+GO:0032790	51	ribosome disassembly
+GO:0006110	52	regulation of glycolytic process
+GO:0006260	53	DNA replication
+GO:2000104	53	negative regulation of DNA-templated DNA...
+GO:0006949	54	syncytium formation
+GO:0060560	54	developmental growth involved in morphog...
+GO:0009827	55	plant-type cell wall modification
+GO:0009828	55	plant-type cell wall loosening
+GO:0042545	55	cell wall modification
+GO:0071555	55	cell wall organization
+GO:0010028	56	xanthophyll cycle
+GO:0010047	57	fruit dehiscence
+GO:0010311	58	lateral root formation
+GO:0015786	59	UDP-glucose transmembrane transport
+GO:0000162	60	tryptophan biosynthetic process
+GO:0019264	60	glycine biosynthetic process from serine
+GO:0019375	61	galactolipid biosynthetic process
+GO:0046166	61	glyceraldehyde-3-phosphate biosynthetic ...
+GO:0033542	62	fatty acid beta-oxidation, unsaturated, ...
+GO:0034440	62	lipid oxidation
+GO:0010077	63	maintenance of inflorescence meristem id...
+GO:0090558	63	plant epidermis development
+GO:1901959	64	positive regulation of cutin biosyntheti...
+GO:0010025	65	wax biosynthetic process
+GO:1904278	65	positive regulation of wax biosynthetic ...
+GO:1905177	66	tracheary element differentiation
+GO:0010345	67	suberin biosynthetic process
+GO:0015995	67	chlorophyll biosynthetic process
+GO:2000029	67	regulation of proanthocyanidin biosynthe...
+GO:2000694	68	regulation of phragmoplast microtubule o...
+GO:0015936	69	coenzyme A metabolic process
+GO:2001295	69	malonyl-CoA biosynthetic process
+GO:0007023	70	post-chaperonin tubulin folding pathway
+GO:0010268	71	brassinosteroid homeostasis
+GO:0010584	72	pollen exine formation
+GO:0016131	73	brassinosteroid metabolic process
+GO:0019432	74	triglyceride biosynthetic process
+GO:0034058	75	endosomal vesicle fusion
+GO:0045176	76	apical protein localization
+GO:0046294	77	formaldehyde catabolic process
+GO:0052544	78	defense response by callose deposition i...
+GO:0061387	79	regulation of extent of cell growth
+GO:0080167	80	response to karrikin
+GO:2000241	81	regulation of reproductive process
+GO:2000652	82	regulation of secondary cell wall biogen...
