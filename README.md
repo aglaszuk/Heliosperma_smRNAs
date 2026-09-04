@@ -1,6 +1,8 @@
 # Heliosperma smRNA differential targeting
 
-Analysis scripts and results for **differential targeting (DT)** of genomic regions by small RNAs (smRNAs) in *Heliosperma pusillum* alpine and montane ecotypes.
+Analysis scripts and results for **differential targeting (DT)** of genomic regions by small RNAs (smRNAs) in *Heliosperma pusillum* alpine and montane ecotypes. These are needed to reproduce the results of the following work:
+
+Szukala Aglaia, Bielke Arne, Mederacke Malte, Frajman Božo, Schönswetter Peter and Ovidiu Paun. Distinct small RNA regulatory changes converge on shared biological functions during parallel altitudinal divergence. (*under review*).
 
 Two experimental designs are analysed in parallel:
 
